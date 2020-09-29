@@ -1,5 +1,6 @@
 {
     "name": "code_0929",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
